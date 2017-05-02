@@ -1,0 +1,3 @@
+While the program run to exit() the program will be stoped and exit.
+we have to enter a intage number for argument,
+and this number will be the return value in main function.
